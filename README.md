@@ -8,27 +8,23 @@ This project focuses on predictive maintenance by forecasting the temperature of
 - **Preventive Maintenance:** Enables timely maintenance by predicting potential overheating, thus reducing downtime and costly failures.
 - **Energy Efficiency:** Helps optimize energy usage by keeping motors at optimal temperatures.
 - **Equipment Reliability:** Enhances reliability and lifespan of motors in critical industries like automotive production and HVAC.
-  ### Objectives:
+### Objectives:
 - Understand problem type (regression/classification).
 - Perform data preprocessing (cleaning, handling outliers, categorical data, etc.).
 - Build and evaluate multiple ML models.
 - Develop a Flask-based web application for user interaction and prediction display.
-- ##Machine Learning Models Used
-
+##Machine Learning Models Used
     Linear Regression
     Decision Tree
     Random Forest
     Support Vector Machine (SVM)
-
 The models are trained on historical sensor data such as motor speed, torque, current, voltage, and environmental parameters.
 ## Technologies Used
-
     Programming Language: Python
     Machine Learning: Scikit-learn, NumPy, Pandas
     Web Interface: HTML, CSS
     Backend: Flask
     Visualization: Matplotlib / Seaborn
-
 ### Project Workflow:
 1. **Data Collection:** Gather or create relevant datasets.
 2. **Data Analysis:** Conduct univariate, multivariate, and descriptive analysis.
