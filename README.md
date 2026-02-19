@@ -1,7 +1,3 @@
-**GitHub README.md Summary for Electric Motor Temperature Prediction Project**
-
----
-
 # Electric Motor Temperature Prediction using Machine Learning
 
 ## Project Description
@@ -76,7 +72,3 @@ Access the application on: http://127.0.0.1:5000
 
 ## Conclusion
 This project highlights the practical utility of machine learning in forecasting electric motor temperature, enabling industries to improve operational efficiency, reduce failure risks, and implement proactive maintenance effectively.
-
----
-
-If you want, I can also help you create this summary as a formatted `README.md` file for GitHub.
