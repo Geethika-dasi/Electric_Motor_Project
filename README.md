@@ -32,7 +32,6 @@ The models are trained on historical sensor data such as motor speed, torque, cu
 ## Dataset & Models
 - Dataset: `measures_v2.csv` (not included due to size limits).
 - Models: Generated locally via `train_model.py` and `sensor_model_train.py`.
-
 ## How to Run the Project
 ```bash
 git clone https://github.com/Geethika-dasi/Electric_Motor_Project.git
